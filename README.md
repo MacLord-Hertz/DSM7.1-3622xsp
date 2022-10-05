@@ -7,7 +7,7 @@ vmware install
 #./rploader.sh satamap now
 
 { edit userconfig
-
+    ***Only add SATA HDD
     "SataPortMap": "4"    "9" 
     "DiskIdxMap": "00"    "0"
     "netif_num": "1",
